@@ -1,1 +1,1 @@
-el que lea esto es mucho geyyyy
+este es un proyecto de prueba para aprender a clonar repositorios de github hacia nuestra computadora.
