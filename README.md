@@ -1,2 +1,1 @@
-# PreCursoHenry
-en este repositorio voy a guardar todo mi trabajo
+este repositorio es una prueba de como crear un repositorio y clonarlo desde github a nuestra computadora
